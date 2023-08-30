@@ -1,0 +1,28 @@
+{
+  "celulares" : [
+      {
+      "nome":"Celular1",
+      "marca":"Samsung",
+      "preco": 1500,
+      "imagem":"assets/imagens/imagem1.webp"
+      },
+      {
+      "nome":"Celular2",
+      "marca":"Samsung",
+      "preco": 2500,
+      "imagem":"assets/imagens/imagem4.webp"
+      },
+      {
+      "nome":"Iphone",
+      "marca":"Apple",
+      "preco": 5000,
+      "imagem":"assets/imagens/imagem1.webp"
+      },
+      {
+      "nome":"Samsung A71",
+      "marca":"Samsung",
+      "preco": 3000,
+      "imagem":"assets/imagens/imagem1.webp"
+      }
+  ]
+}
